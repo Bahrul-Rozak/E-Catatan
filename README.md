@@ -3,6 +3,7 @@
 Awalnya sih saya cuma nyoba-nyoba namun ternyata Laravel begitu menarik setelah bergelut dengan pikiran, akhirnya saya menemukan ide untuk membuat project Laravel yang saya beri nama E - Catatan, ide ini tercetus karena saya terkadang mager untuk buka buka file satu satu, akhirnya lahirlah E-Catatan ini, dengannya dihrapkan semua catatan yang akan saya buat nantinya terintegrasi dan saya tidak mager lagi udah gitu deh #eh
 
 # Fitur Utama
+- Login (Berfungsi dengan sangat keren)
 - CRUD Catatan
 - CRUD Tag
 - CRUD Kategori
